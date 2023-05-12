@@ -88,7 +88,7 @@ Clone this repository to your desired folder:
 commands:
 
 cd [your folder]
-git clone https://github.com/Tarto-4/Mobile-Portfolio.git
+git clone https://github.com/Tarto-4/Desktop_Portfolio.git
 
 ### Install
 
